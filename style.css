@@ -47,6 +47,7 @@ body {
 .c1 {
   padding-top: 0vw;
   box-shadow: 0vw 0vw 0vw 2vw rgb(0, 1, 74);
+  position: absolute;
 }
 
 .navv {
@@ -237,8 +238,8 @@ a .inner-link {
   font-weight: 700;
   color: white;
   position: absolute;
-  left: 10%;
-  width: 40%;
+  left: 5%;
+  width: 50%;
   text-align: center;
   text-shadow: 0vw 0vw 1vw rgb(197, 200, 255);
   top: 40%;
@@ -273,4 +274,40 @@ a .inner-link {
   border: .5vw solid black;
   border-radius: 2vw;
   margin-top: 1vw;
+}
+.textbox2 {
+  font-weight: 600;
+  color: white;
+  position: absolute;
+  left: 22%;
+  width: 20%;
+  text-align: center;
+  text-shadow: 0vw 0vw 1vw rgb(9, 12, 60);
+  top: 30%;
+  scale: 3;
+  padding-bottom: 4vw;
+}
+.c2 {
+  margin-top: 60vw;
+  padding-top: 0vw;
+  box-shadow: 0vw 0vw 0vw 2vw rgb(0, 1, 74);
+bottom: 0%;
+}
+.gh {
+top: 30%;
+}
+.textbox0 {
+  font-weight: 600;
+  color: white;
+  position: absolute;
+  left: 22%;
+  width: 20%;
+  text-align: center;
+  text-shadow: 0vw 0vw 1vw rgb(9, 12, 60);
+  top: 20%;
+  scale: 3;
+  padding-bottom: 4vw;
+}
+.op {
+  margin-bottom: 10vw;
 }
