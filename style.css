@@ -311,3 +311,15 @@ top: 30%;
 .op {
   margin-bottom: 10vw;
 }
+.textbox01 {
+  font-weight: 600;
+  color: white;
+  position: absolute;
+  left: 22%;
+  width: 20%;
+  text-align: center;
+  text-shadow: 0vw 0vw 1vw rgb(9, 12, 60);
+  top: 25%;
+  scale: 3;
+  padding-bottom: 4vw;
+}
